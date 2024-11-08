@@ -34,7 +34,7 @@ Each model's performance is evaluated using Mean Squared Error (MSE), Mean Absol
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Acknowledgments
+## Acknowledgments
 This project utilizes a predictive maintenance dataset from the [GRC Streaming Repository](https://github.com/omlstreaming/grc-datasets-pred-maintenance), provided by the Huawei German Research Center. The dataset contains anonymized time series data from various IoT sensors for predictive maintenance in the elevator industry, aimed at reducing unplanned stops and maximizing equipment life cycle. Sensor data includes readings for:
 - **Electromechanical (Door Ball Bearing Revolutions)**
 - **Ambiance (Humidity)**
